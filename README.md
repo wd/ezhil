@@ -189,3 +189,10 @@ Other contents.
 
 * [Feather Icons](https://feathericons.com/)
 * [Zen habits](https://zenhabits.net/) for demo content
+
+## Styles
+
+```
+hugo gen chromastyles --style=monokai > static/dark-syntax.css
+hugo gen chromastyles --style=colorful > static/light-syntax.css
+```
